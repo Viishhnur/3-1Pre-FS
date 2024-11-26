@@ -2,11 +2,11 @@
 
 ## 📚 Repository Overview
 
-This repository is a comprehensive collection of Pre-Final Semester (Pre-FS) study materials, including:
+This repository is a comprehensive collection of Neil Sir Pre-FS questions and study materials, including:
 - Question papers
 - Multiple Choice Questions (MCQs)
-- PDF study resources
-- Academic reference materials
+- Coding Questions
+- Queries , mini projects
 
 ## 🚀 Quick Start Guide
 
@@ -37,16 +37,13 @@ git checkout -b <your-branch-name>
 - Use hyphens for spaces
 - Be descriptive
 - Examples: 
-  - `feature-add-math-questions`
-  - `update-physics-mcqs`
-  - `fix-computer-science-pdfs`
+  - `updated-Day-xx-codes`
 
 ### 3. Make Your Contributions
 
-- Add new study materials
-- Update existing resources
-- Improve document quality
-- Ensure academic accuracy
+- Add daily coding question solutions
+- Update mcqs 
+- Improve code quality
 
 ### 4. Commit Your Changes
 
@@ -99,7 +96,7 @@ git push origin viishhnu
 - Question papers
 - MCQs
 - codes
-- Reference PDFs
+- Reference questions 
 
 ## 🔍 Important Notes
 
