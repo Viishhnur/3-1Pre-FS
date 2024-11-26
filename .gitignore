@@ -1,0 +1,16 @@
+# Ignore .class files (Java compiled bytecode)
+*.class
+
+# Ignore specific text files
+RunnableInterface.txt
+
+# Ignore VSCode configuration files
+.vscode/
+
+# Ignore .session.sql files
+*.session.sql
+
+# Ignore node_modules folder
+node_modules/
+
+Tesselator.session.sql
